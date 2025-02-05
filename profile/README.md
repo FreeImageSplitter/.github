@@ -8,6 +8,16 @@
 
 Image Splitter is a powerful online tool that helps you split images into custom grids and carousels. Perfect for social media content creators, designers, and anyone looking to create stunning photo layouts.
 
+[https://free.imagesplitter.vip/](https://free.imagesplitter.vip/)
+Free Image Splitter - A powerful online tool for splitting images into multiple parts with pixel-perfect precision. No installation required, works directly in your browser.
+
+[https://github.com/xingstarx/free-image-splitter](https://github.com/xingstarx/free-image-splitter)
+This is an open-source project. Feel free to explore the code, contribute, or fork the repository to create your own version.
+
+[https://imagesplitter.vip/](https://imagesplitter.vip/)
+Try our full-featured image splitter with advanced capabilities, including custom aspect ratios, batch processing, and more professional tools for your image splitting needs.
+
+
 ## 🌟 Key Features
 
 - **Custom Grid Splitting**: Split images into rows and columns with precise control
